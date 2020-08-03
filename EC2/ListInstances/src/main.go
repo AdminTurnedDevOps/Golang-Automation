@@ -13,6 +13,7 @@ import (
 
 func main() {
 	instanceID := os.Args[1]
+
 	listInstances(instanceID)
 }
 
